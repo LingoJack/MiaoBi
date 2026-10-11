@@ -52,13 +52,10 @@
 1. 从 [Releases 页面](https://github.com/LingoJack/MiaoBi/releases)下载最新安装包，或使用 1.0.0 直链：
    `https://github.com/LingoJack/MiaoBi/releases/latest/download/MiaoBi-1.0.0-arm64.dmg`
 2. 打开 DMG，将妙笔拖入「应用程序」文件夹。
-3. 首次启动如果看到「无法验证开发者」的提示，请按以下方式放行：
-   - 在「系统设置 > 隐私与安全性」底部找到关于妙笔的提示，点击「仍要打开」；
-   - 或者右键点击应用图标选择「打开」，在确认对话框中再点「打开」。
 
 <!-- TODO: 补充安装与首启截图 -->
 
-说明：1.0.0 版本尚未进行 Developer ID 签名与公证，因此 macOS 会显示上述提示，属正常现象。后续版本将提供 Developer ID 签名与公证。
+说明：安装包已通过 Apple Developer ID 签名并经 Apple 公证，macOS 会正常放行，无需手动绕过安全提示。
 
 ## 系统要求
 

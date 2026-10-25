@@ -50,7 +50,7 @@
 ## 下载与安装
 
 1. 从 [Releases 页面](https://github.com/LingoJack/MiaoBi/releases)下载最新安装包，或使用最新版直链：
-   `https://github.com/LingoJack/MiaoBi/releases/latest/download/MiaoBi-1.3.2-arm64.dmg`
+   `https://github.com/LingoJack/MiaoBi/releases/latest/download/MiaoBi-1.3.3-arm64.dmg`
 2. 打开 DMG，将妙笔拖入「应用程序」文件夹。
 
 <!-- TODO: 补充安装与首启截图 -->
@@ -61,7 +61,7 @@
 
 - macOS（Apple Silicon，arm64 架构）
 - Windows（x64）
-- 当前版本：1.3.2
+- 当前版本：1.3.3
 
 ## 数据与隐私
 
